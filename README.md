@@ -1,3 +1,7 @@
+今年以降全部[こちら](https://github.com/Takas0522/m365-vm-demos)に移動したのでアーカイブ
+
+---
+
 demo5以外は基本的に同じことをすれば動作します。
 
 demo5はdemo5のREADMEを参照してください。
